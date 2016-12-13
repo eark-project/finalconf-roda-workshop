@@ -1,0 +1,572 @@
+
+   UNITED STATES OF AMERICA, PETITIONER V. JOSEPH INADI
+
+   No. 84-1580
+
+   In the Supreme Court of the United States
+
+   October Term, 1985
+
+   On Writ of Certiorari to the United States Court of Appeals for the
+Third Circuit
+
+   Reply Brief for the United States
+
+            TABLE OF CONTENTS
+   A. The Historical Evidence
+   B. The Roberts Dictum
+   C. Costs and Benefits of a Requirement That
+      Unavailability be Shown
+   Conclusion
+
+                                  I.
+
+   Respondent has not answered any of the principal points made in our
+opening brief.  Respondent has not disputed any of the historical
+facts that, in our judgment, lead to the conclusion that the
+Confrontation Clause was not intended as a general regulation of the
+admission of hearsay.  Respondent has interpreted this Court's
+Confrontation Clause cases in a way that would revolutionize the law
+of evidence that we do not believe this Court could have intended.
+And, perhaps most important, respondent has failed to explain what
+practical benefit defendants would derive from the rule adopted by the
+court of appeals.  In particular, respondent's brief does not contain
+even a hint of an answer to the common sense question that jumps out
+from this case:  If respondent really wanted to question the
+co-conspirator/declarant John Lazaro, whose whereabouts were known to
+the defense, why didn't respondent subpoena him?  Respondent's brief
+is written as if trial subpoenas were unknown and the Compulsory
+Process Clause did not exist.
+
+                      A.  The Historical Evidence
+
+   In our opening brief (at 12-24), we reviewed the history of the
+confrontation right, the hearsay rule, and the framing and adoption of
+the Sixth Amendment, and we made the following points:
+
+         1. The right to confrontation grew up to prevent the practice
+      of trial by affidavit or deposition.  There is no evidence that
+      this right was intended generally to regulate the admission of
+      hearsay.
+
+         2. Many exceptions to the hearsay rule were recognized before
+      the adoption of the Sixth Amendment, and the co-conspirator rule
+      developed at approximately the same time as the adoption of the
+      Bill of Rights.
+
+         3. There is no evidence that the framers of the Sixth
+      Amendment intended to alter or extend the right to confrontation
+      as it was then commonly understood;  in particular, there is no
+      evidence that the framers intended the Confrontation Clause to
+      abrogate hearsay exceptions or generally to regulate hearsay.
+
+         4. For nearly 200 years, it has been accepted that certain
+      out-of-court statements, including co-conspirator statements,
+      are admissible -- if they satisfy various other, carefully drawn
+      conditions -- whether or not the declarant is available to
+      testify.
+
+   Respondent's brief contains no historical evidence refuting any of
+these points.  This is obviously revealing because we believe we
+believe that these points strongly suggest the conclusion that the
+Sixth Amendment was not intended either to bar the admission of all
+hearsay or to serve as a general standard for the regulation of
+hearsay.  Had the framers of the Sixth Amendment intended to alter the
+confrontation right so as to achieve such results, there would surely
+have been some discussion or debate.  Moreover, if the framers had
+harbored such an intention, it seems most unlikely that this would
+have completely escaped the notice of or been ignored by the judges
+and practitioners of the era and have come to light only in the last
+few years.  See United States v. Ross, 456 U.S. 798, 819 (1982) ("The
+fact that no such argument was even made illuminates the profession's
+understanding of the scope of the (right in question).").
+
+   Although respondent discusses (Br. 9-14) the historical materials,
+it is difficult to tell what he makes of them.  He points (Br. 9-10)
+to the fact that Hale and Blackstone did not expressly reject
+application of the right to confrontation to regulation of the
+admiission of hearsay.  However, the most plausible conclusion to be
+drawn from this omission is not that these authorities endorsed the
+proposition that the confrontation right generally regulates hearsay
+or even that they entertained doubts on the subject.  Rather, the most
+plausible conclusion -- indeed, we would say the only plausible
+conclusion -- is that such an interpretation of the confrontation
+right did not even occur to them.  After all, both the confrontation
+right and the admission of hearsay pursuant to exceptions to the
+hearsay rule were well recognized at the time, and it was the practice
+then, as it has been ever since, to admit certain types of hearsay
+without inquiring whether they met special requirements stemming from
+the confrontation right.
+
+   Respondent suggests (Br. 11) that it is impossible to determine
+what the framers of the Sixth Amendment meant by the right to
+confrontation.  For reasons already touched upon, however, this
+argument does not support the decision below.  It is true, as we noted
+in our opening brief (at 17-18), that the Confrontation Clause
+produced little discussion or debate in Congress and in the state
+legislatures during ratification.  As a result, it is probably not
+possible to discern the intent of the framers on some fine points of
+Confrontation Clause jurisprudence.  But with respect to the broad
+question implicated in the present case -- whether the Confrontation
+Clause was meant as a general standard for regulating hearsay -- the
+silence of the framers can indicate only one answer, for it simply is
+not credible that the framers dramatically changed the settled meaning
+of the confrontation right without leaving any hint in the historical
+record.  Thus, even were respondent correct that we have shown nothing
+more than that the dog did not bark, one need hardly be a Sherlock
+Holmes to find meaning in that silence.  /1/
+
+                        B.  The Roberts Dictum
+
+   In our opening brief, we argued that this Court's Confrontation
+Clause cases disclose a three-part approach to the admission of
+hearsay.  First, the Court has closely regulated the admission of
+those types of hearsay -- chiefly former testimony -- that are
+analogous to affidavits and depositions, the forms of proof that the
+confrontation right was historically intended to restrict.  Second,
+the Court has treated evidence falling within settled and tested
+exceptions to the hearsay rule as presumptively valid.  Third, as is
+illustrated by Dutton v. Evans, 400 U.S. 74 (1970), which involved a
+state variation of the traditional co-conspirator rule, the Court has
+held out the possibility of more exacting scrutiny of novel departures
+from traditional hearsay principles.
+
+   Disagreeing with this analysis, respondent instead reads Ohio v.
+Roberts, 448 U.S. 56 (1980), and other cases involving the admission
+of former testimony as articulating Confrontation Clause principles
+that apply to all hearsay exceptions and not just the exception for
+former testimony (see Resp. Br. 18-28).  Respondent expresses
+amazement (Br. 26-27) at our argument that this Court's cases dealing
+with the admission of former testimony are -- of all things -- about
+the admission of former testimony.  Clearly respondent's position is
+contrary to basic principles regarding the interpretation of judicial
+opinions.  Presumably respondent would agree that the holdings of the
+former testimony cases apply only to the admission of former
+testimony.  Thus, respondent's position must be that dictum in these
+cases was intended to settle the application of the Confrontation
+Clause, not just to the single exception for former testimony, but to
+the more than 30 commonly recognized exemptions from and exceptions to
+the hearsay rule (see Fed. R. Evid. 801, 803, 804).  However, it seems
+to us completely implausible to suggest that this Court announced
+Confrontation Clause principles of such general applicability and
+importance based upon an examination of a single hearsay exception,
+which, not coincidentally, happens to be the one that most precisely
+conforms to the purpose of the Confrontation Clause.
+
+   In the end, the analysis espoused by respondent and the court of
+appeals rests almost entirely upon the dictum from Ohio v. Roberts,
+488 U.S. at 65, that "(i)n the usual case * * * , the prosecution must
+either produce, or demonstrate the unavilability of, the declarant
+whose statement it wishes to use against the defendant." Respondent
+reads this dictum as the final word on the meaning of the
+Confrontation Clause with regard to the availability of hearsay
+declarants.  Respondent states (Br. 20):  "(b)y terms, the Roberts
+rule of unavailability applies to all out-of-court declarations,
+whether or not they fall within traditional hearsay exceptions."
+Respondent reiterates (Br. 28):  "(The Roberts) rule of necessity
+applies to all out-of-court declarations." The invalidity of this
+reading of Roberts is illustrated by the conclusion to which it leads,
+namely, that the 23 specific hearsay exceptions in Fed. R. Evid. 803,
+none of which requires proof the the declarant's unavailability,
+cannot constitutionally be used by the prosecution in a criminal case.
+ As we noted in our opening brief (at 26-27), we do not believe that
+the Roberts court could have intended to embrace such a revolutionary
+proposition in dictum, without briefing or argument directed to this
+broad question, and without careful elaboration in its opinion.
+
+   Moreover, reading a requirement of unavailability into the Rule 803
+exceptions would be nonsensical.  Those exceptions generally apply to
+types of out-of-court statements that, like co-conspirator
+declarations, have probative value quite independent of any testimony
+that the declarant might later give in court.  For example, an excited
+utterance -- "He hit the pedestrial without even braking." --
+obviously has probative significance quite different from any
+subsequent testimony given by the declarant at a time when the
+potential consequences of such a statement may influence, or may be
+thought to influence, his story.  To take another, exceptionally
+important example, live testimony is patently no substitute for
+regularly kept business records (Fed. R. Evid. 803 (6)).
+
+   Although respondent acknowledges (Br. 20) that "(b)y its terms, the
+Roberts rule of unavailability applies to all out-of-court
+declarations," respondent understandably draws back from the plain
+implication of this proposition, i.e., that Rule 803 is
+unconstitutional in substantial part.  Respondent suggests (see Br. 20
+n.7, 32-35) that proof of unavailability may not be necessary for some
+or all of the Rule 803 exceptions because hearsay falling within those
+exceptions has been judged to be particularly reliable.  By contrast,
+respondent maintains (see Br. 14-18), the co-conspirator rule is not
+based on a judgment about reliability but on principles of agency.  In
+our view, respondent has substantially oversimplified the basis for
+the co-conspirator rule, /2/ but in any event it is difficult to see
+how respondent's distinction can be squared with the literal reading
+of the Roberts dictum upon which respondent's entire argument -- and
+the decision of the court of appeals -- depends.  The Roberts dictum
+states (448 U.S. at 65) that "(t)he Confrontation Clause operated in
+two separate ways to restrict the range of admissible hearsay." After
+making the previously discussed comment about unavailability, the
+Court observed (ibid.):  "The second aspect (i.e., reliability)
+operates once a witness is shown to be unavailable." Clearly, it is a
+radical departure from this language to collapse these two
+requirements into one, as respondent suggests might be done to salvage
+Rule 803.  Thus, unless the Roberts dictum is read, as we believe it
+should be, to refer primarily to the hearsay exception at issue in
+that case and in the precedents on which the Roberts court relied
+(i.e., the exception for former testimony), that dictum must lead to
+results that the Court cannot possibly have intended.
+
+   In addition, respondent's explanation for the co-conspirator
+exception -- that it is based solely on principles of agency --
+actually undermines the result reached by the court of appeals.  While
+the co-conspirator may or may not remain allied with the defendant, as
+his former principal the defendant is in a poor position to insist
+that the prosec ution produce the declarant rather than the defense.
+
+   In substantial part, respondent's brief appears to be an attack
+upon the co-conspirator rule on the ground that it allows the
+admission of unreliable hearsay.  However, the question in this case
+is not whether it would be advisable to reformulate the federal
+co-conspirator rule.  We disagree with respondent's assessment of the
+rule, but in any event his argument would be more appropirately
+directed to Congress or the Advisory Committee on the Rules of
+Evidence.
+
+  C. Costs and Benefits of a Requirement That Unavailability be Shown
+
+   In our opening brief, we explained that the rule adopted by the
+court of appeals would produce very little legitimate benefit for
+criminal defendants, while imposing a substantial burden on the
+prosecution and the entire judicial system.  These arguments are
+largely unanswered in respondent's brief.
+
+   1. Benefit to defendants. The court of appeals held that a
+co-conspirator statement may be introduced if the government (a)
+"produce(s) the declarant() for cross-examination" (Pet. App. 12s) or
+(b) shows that the declarant is unavailable.  Thus, as we observed in
+our opening brief (at 41), the court of appeals' rule cannot be
+justified on the ground that it keeps out an inferior type of
+evidence, because under that rule co-conspirator statements will
+always be admitted provided that the prosecution jumps through the
+prescribed hoops -- i.e., either produces the declarant or shows to
+the court's satisfaction that the declarant is unavailable.
+Consequently, if the court of appeals' rule would benefit defendants
+at all, it must be because of the additional evidence that it may
+bring in.  On examination, however, it seems quite clear that the
+court of appeals' rule will bring in little if any additional
+testimony favorable to the defense.  The effect of the court of
+appeals' rule in this regard is illustrated by the following chart:
+
+ EFFECT OF COURT OF APPELAS RULE ON AVAILABILITY OF ADDITIONAL
+TESTIMONY
+
+   No additional testimony with respect to the following
+co-conspirator/declarants:
+
+         Those who would be called anyway by prosecution or defense.
+
+         Those who would refuse to testify if called.
+
+         Those who cannot be found.
+
+         Those whom defense would not want to question even if
+      produced by prosecution.
+
+   Additional testimony with respect to following
+co-conspirator/declarants:
+
+         Those, if any, who
+
+         a) can be found and
+
+         b) will not refuse to testify and
+
+         c) would not be subpoenaed by either side (as regular or
+      hostile witness) but
+
+         d) would be questioned by defense if produced by government
+
+   It is evident that exceedingly few declarants will fall into the
+category represented by the right column of the chart and therefore
+that the court of appeals' rule will produce little if any additional
+testimony of potential value to the defense.  If the defense does not
+wish to call a witness to testify either as a regular or hostile
+witness, it is difficult to understand why the defense would want to
+question the witness if produced by the government in accordance with
+the court of appeals' new rule.  In the present case, for example, if
+respondent really wanted to question the co-conspirator/declarant
+Lazaro, it is difficult to understand why the defense did not subpoena
+Lazaro or make any other efforts to secure his testimony.  Certainly
+it cannot be, as respondent repeatedly asserts, so that the right of
+cross-examination is preserved, for Fed. R. Evid. 806 expressly
+provides that "(i)f the party against whom a hearsay statement has
+been admitted calls the declarant as a witness, the party is entitled
+to examine him on the statement as if under cross-examination."
+
+   Although we posed these questions in our opening brief, respondent
+has not provided a plausible answer.  Respondent's only explanation
+(Br. 38) is the following:
+
+      In the case here the defendant cross-examined both McKeon and
+      Mrs. Lazaro (co-conspirator/declarants who testified for the
+      government) at length and was prepared to cross-examine Mr.
+      Lazaro had the government called him * * * .
+
+   This answer is clearly not responsive to our argument.  If John
+Lazaro had testified for the government and given testimony damaging
+to the defense, one would expect defense counsel to cross-examine him
+in an effort to negate or limit the damage.  The question that is
+posed by our analysis is not whether respondent would have
+cross-examined John Lazaro if he had testified for the prosecution but
+why if the defense had any independent desire to secure Lazaro's
+testimony, it did not employ the procedures available to it for that
+purpose.
+
+   2. Burden on the government and the judicial process.  In our
+opening brief (at 40-41), we noted that the court of appeals left
+unclear whether its new rule requires only that the prosecution bring
+the co-conspirator/declarant to the courthouse or whether the
+prosecution must actually place him on the stand as its witness.  If
+the court of appeals was concerned solely with the production of the
+declarant, we do not understand why this question should not be
+addressed under the Compulsory Process Clause rather than the
+Confrontation Clause.  On the other hand, if the court of appeals'
+rule requires the prosecution to conduct some kind of direct
+examination of the declarant, this procedure would disrupt the
+adversary process and create a severe potential for jury confusion.
+Respondent's brief does nothing to clarify this important issue.
+
+   Even if production of the declarant is all that is required, the
+court of appeals' rule, as we explained in our opening brief (at
+37-40), would impose substantial burdens on the prosecution and the
+judicial system as a whole.  First, there is the burden and disruption
+of having to transport large numbers of co-conspirator/declarants to
+the courthouse.  Often these individuals will be incarcerated in
+institutions remote from the scene of trial, and therefore
+transporting them to court will be burdensome for prison officials and
+the marshals, as well as occasioning an increased risk of escape.
+Respondent's only answer to this point (see Br. 37 n.15) is that the
+legal mechanisms for producing an incarcerated witness "have long been
+readily available." Our point, however, had nothing to do with the
+availability of a legal mechanism for producing an incarcerated
+individual but the practical burden of having to do so when neither
+party affirmatively desires testimony from the individual.
+
+   Where the declarant is not incarcerated, the burden and disruption
+caused by the court of appeals' production requirement may be just as
+great or greater.  Such declarants will often have a strong desire not
+to testify because of sympathy for or fear of the defendant.
+Accordingly, it is entirely predictable that many such declarants will
+make it as hard as they can for the government to discharge the
+production burden imposed by the court of appeals.  The seemingly
+evasive behavior of John Lazaro in this case is a foretaste, we think,
+of what will frequently occur if the decision below is affirmed.  If a
+witness is not incarcerated and does not wish to appear in court, the
+government has no ability to compel his attendance until he has
+disobeyed at least one subpoena and a bench warrant has been issued.
+By that point, of course, the court proceedings will have already been
+disrupted at least once.  /3/
+
+   The second burden caused by the court of appeals' rule is that of
+demonstrating on the record that a declarant is not available to
+testify.  This may involve two different problems.  In some cases --
+for example, those in which the government wishes to introduce
+statements contained in tape recordings of electronic surveillance --
+it may be very burdensome for the government to establish on the
+record that it has exhausted all reasonable means of identifying
+unknown participants in a conspiratorial conversation.  Consider for
+example a case in which members of a drug distribution conspiracy
+discuss plans for distributing drugs, and one of the participants in
+the conversation is an unknown conspirator whom the other conspirators
+address by nickname or by his first name -- let us say "Pete." The
+potential scope of an investigation to ascertain the identity of
+"Pete" is obviously vast.  How many persons associated with the known
+conspirators must be questioned?  How many persons must be asked to
+listen to the tape?  If the known conspirators are found to have
+numerous friends and associates by the name of "Pete" or "Peter," must
+they all be tracked down?  If the tape contains internal leads
+regarding "Pete's" identify -- if for example it seems to reveal his
+occupation or city of residence -- how far must those leads be
+pursued?  Problems similar to these have already arisen.  In United
+States v. Ordonez, 737 F.2d 793, 802 (9th Cir. 1984), the court held
+that the Confrontation Clause was violated because the government
+introduced drug ledgers containing entries made by unidentified
+co-conspirators without demonstrating to the court's satisfaction that
+it was totally unable to identify these conspirators.  The court did
+not explain, however, precisely what steps it believed the government
+was obligated to take to discharge this burden.
+
+   Some co-conspirator declarants, while identifiable, may not be
+locatable, and thus the government would be compalled under the
+decision below to demonstrate to the satisfaction of the trial court
+-- and ultimately the appellate courts -- that all reasonable efforts
+had been made to locate and assure the availability of the declarant.
+Respondent cites Ohio v. Roberts (Br. 36 n. 14) to show that this
+obligation is not "unduly burdensome," but to us that case well
+illustrates the great burdens this rule will in fact impost on the
+courts.  In Roberts, the state ultimately succeeded (over three
+dissents in this Court) in establishing that the witness in question
+could not reasonably be found -- but not before the state had
+litigated the issue at three levels in the state courts, as well as
+before this Court.
+
+   Furthermore, even if it can be established that a declarant cannot
+be found at the time of trial, a contention may be made that the
+declarant slipped away because the government did not take sufficient
+steps to monitor his whereabouts.  See Motes v. United States, 178
+U.S. 458 (1900).  Requiring the government to show everything it did
+to keep tabs on the declarant during the weeks or months before the
+trial would be a considerable burden.  And what steps the courts would
+regard as sufficient is of course as yet unknown.
+
+                                 II.
+
+   In our opening brief (at 44-46), we contended that even if a
+showing of unavailability were required, the court of appeals erred in
+ordering a new trial instead of first remanding for a hearing on John
+Lazaro's availability.  If Lazaro was unavailable, we argued,
+respondent was not prejudiced and a new trial should not be ordered.
+
+   Respondent defends the court of appeals' disposition on two
+principal grounds.  First, he argues (Br. 40) that "the government had
+and declined its opportunity in the trial court to prove
+unavailability or produce the declarant" and that the government
+should not get "a second bite at an apple it once rejected." /4/ This
+argument would unreasonably penalize the government.  At the time of
+trial the government had perfectly reasonable grounds for believing
+that proof of Lazaro's unavailability was not required.  Not only had
+the trial court implicitly so held (see U.S. Br. 5), but nearly 200
+years of practice permitted the admission of co-conspirator statements
+without any showing of unavailability.  Moreover, even if the
+government could be faulted for not satisfactorily demonstrating
+Lazaro's unavailability, such an error would not explain why the
+judicial process and society should be penalized by depriving the
+trier of fact of evidence probative of respondent's guilt.  Unless
+Lazaro would have testified at trial and given material testimony
+favorable to the defense, the government's alleged error in failing to
+produce him in court did not prejudice respondent and accordingly
+should afford no reason to disturb respondent's conviction.
+
+   Respondent also contends (Br. 41) that a remand hearing "would be
+completely inadequate as a device for resolving the question whether
+(Lazaro) would have testified." Respondent argues that Lazaro had no
+legal basis for refusing to testify and therefore that the question
+that would have to be resolved on remand is whether he was willing to
+stand in contempt.  This argument is plainly incorrect.  At the time
+of trial, Lazaro had been convicted of related state charges, but he
+could have been prosecuted for federal offenses similar to those
+charged against respondent.  Consequently, Lazaro's entitlement to
+claim the Fifth Amendment privilege seems clear.  If this Court adopts
+the Confrontation Clause rule crafted by the court of appeals, the
+government should not be deprived on remand of the opportunity to show
+beyond a reasonable doubt that production of Lazaro in the courtroom
+would not have altered the outcome of the trial.  /5/
+
+                              CONCLUSION
+
+   The these reasons and those set forth in our opening brief, the
+judgment of the court of appeals should be reversed.
+
+   Respectfully submitted.
+
+   CHARLES FRIED
+
+      Solicitor General
+
+   NOVEMBER 1985
+
+   /1/ Respondent also contends (Br. 11) that our opening brief gave
+"short shrift" to "the historical function of the right of
+confrontation," which respondent seems to identify as providing an
+opportunity for cross-examination and assessment of the witness's
+demeanor.  There can, of course, be no doubt that these are the broad
+purposes underlying the right of confrontation, but it is an enormous
+leap from these broad purposes to the rule adopted by the court of
+appeals in the present case.  The opportunity for cross-examination
+and assessment of demeanor are restricted whenever a court admits a
+hearsay statement made by a non-testifying declarant.  It must follow,
+therefore, either (a) that all hearsay is barred by the Confrontation
+Clause (a conclusion at war with the last several centuries of
+Anglo-American evidence law and practice) or (b) that there are valid
+exceptions to the general principle that persons whose statements are
+introduced as evidence in criminal cases should be available for
+cross-examination and assessment of demeanor.  Since there must be
+such exceptions, respondent's argument is not at all advanced by the
+recitation of the broad purposes served by the confrontation right.
+
+   /2/ Respondent's explanation (Br. 14-18) of the basis for the
+co-conspirator rule is a misleading oversimplification.  In our view,
+the co-conspirator rule is supported by three rationales.  Although
+each rationale does not apply to every statement falling within the
+co-conspirator rule, these three rationales, when taken together,
+fully support the rule.
+
+   First, many co-conspirator statements bear special hallmarks of
+reliability.  As the Seventh Circuit recently explained (United States
+v. Molt, 772 F.2d 366, 368-369 (1985)):
+
+         The declarations of conspirators are * * * contemporaneous
+      statements in an ongoing business relation.  * * *
+
+         (These) declarations are reliable in the same sense that
+      contracts or negotiations among legitimate business partners
+      usually portray accurately the affairs of those involved.  * * *
+
+   Second, a high percentage of co-conspirator statements are relevant
+for non-hearsay purposes.  To that extent at least, they are plainly
+not subject to Confrontation Clause regulation.  See Tennessee v.
+Street, No. 83-2143 (May 13, 1985).  Indeed, many contain no
+assertions of fact and thus cannot be hearsay.  See Fed. R. Evid. 801
+(c).  Other co-conspirator statements, although containing assertions
+of fact, could be admitted for non-hearsay purposes.  Thus, if there
+were no co-conspirator rule, courts would have to examine very
+carefully each sentence of a conspiratorial conversation, would have
+to decide many difficult questions under Fed. R. Evid. 403, and would
+have to give many potentially confusing limiting instructions.
+
+   Finally, there are circumstances in which principles of agency
+support the admission of co-conspirator statements, i.e.,
+circumstances in which the statement of one conspirator may
+realistically be viewed as an admission of a co-conspirator.  A
+party's admission is exempted from the hearsay rule because the party
+can always dispute the accuracy of his own alleged statements.  See
+Fed. R. Evid. 801 advisory note.  Likewise, when a
+co-conspirator/declarant remains in league with the defendant at the
+time of trial, it makes sense to regard the declarant's statement as
+the defendant's admission because it often lies within the defendant's
+power to put on testimony by the declarant disavowing or explaining
+his alleged prior statements.
+
+   /3/ Respondent seeks to minimize the burden of the court of
+appeals' rule by observing (Br. 37) that "in some circumstances" the
+government would not have to bring a declarant to court but "could
+show its good faith efforts to produce through the simple procedure of
+presenting an affidavit from the declarant establishing that he would
+claim the privilege." But respondent ignores the obvious fact that
+many co-conspirator declarants will not obligingly execute such
+affidavits.  Those who are incarcerated may view a trip to court as a
+welcome escape from the daily routine;  others may refuse to execute
+an affidavit out of simple hostility for the prosecution or because
+they want to assist the defense by making the prosecution's task as
+difficult as possible.  While this procedure is convenient for
+respondent to espouse here, we doubt that future defendants will so
+meekly acquiesce;  nor is it clear that the affidavit procedure could
+be forced upon them.  See U.S. Br. 40 n.36.
+
+   /4/ While the court of appeals ultimately came to a different
+conclusion, it was not necessarily clear to the prosecutor at the time
+that Lazaro's statement to her that he would refuse to testify --
+relayed by her to the court -- was inadequate to establish his
+unavailability.  See J.A. 18-19.
+
+   /5/ Respondent also contends (Br. 40 n.16) that the government
+waived its right to object to the relief ordered by the court of
+appeals -- a new trial -- because the government did not address this
+issue until after the court's decision was announced.  This is surely
+an extreme application of the rule that arguments ordinarily should
+not be raised by the first time on reharing.  Until the court of
+appeals handed down its decision, the government did not know whether
+the court would find a Confrontation Clause violation, much less that
+it would order what in our view is entirely inappropriate, wasteful,
+and excessive relief.  We are not aware of a rule requiring appellees
+to anticipate and brief all forms of unwarranted relief that an
+appellate court might impose.

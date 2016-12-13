@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:doc="http://www.lyncode.com/xoai" xsi:noNamespaceSchemaLocation="../schemas/dc.xsd"><title>A defence of predicativism as a philosophy of mathematics</title><creator>Storer, Tim</creator><contributor>Potter, Michael</contributor><subject>Predicativism</subject><subject>Continuum</subject><description>A specification of a mathematical object is impredicative if it essentially involves quantification over a domain which includes the object being specified (or sets which contain that object, or similar). The basic worry is that we have no non-circular way of&#xD;
+understanding such a specification.  Predicativism is the view that mathematics should be limited to the study of objects which can be specified predicatively.&#xD;
+&#xD;
+There are two parts to predicativism. One is the criticism of the impredicative aspects of classical mathematics. The other is the&#xD;
+positive project, begun by Weyl in Das Kontinuum (1918), to reconstruct as much as possible of classical mathematics on the basis of a predicatively acceptable set theory, which accepts only countably infinite objects. This is a revisionary project, and certain parts of mathematics will not be saved.&#xD;
+&#xD;
+Chapter 2 contains an account of the historical background to the predicativist project. The rigorization of analysis led to Dedekind's and Cantor's theories of the real numbers, which relied on the new notion of abitrary infinite sets; this became a central part of modern classical set theory. Criticism began with Kronecker; continued in the debate about the acceptability of Zermelo's Axiom of Choice; and was somewhat clarified by Poincaré and Russell. In the&#xD;
+light of this, chapter 3 examines the formulation of, and motivations behind the predicativist position.&#xD;
+&#xD;
+Chapter 4 begins the critical task by detailing the epistemological problems with the classical account of the continuum.  Explanations of classicism which appeal to second-order logic, set theory, and&#xD;
+primitive intuition are examined and are found wanting.&#xD;
+&#xD;
+Chapter 5 aims to dispell the worry that predicativism might collapses into mathematical intuitionism. I assess some of the arguments for intuitionism, especially the Dummettian argument from indefinite&#xD;
+extensibility. I argue that the natural numbers are not indefinitely extensible, and that, although the continuum is, we can nonetheless make some sense of classical quantification over it. We need not reject the Law of Excluded Middle.&#xD;
+&#xD;
+Chapter 6 begins the positive work by outlining a predicatively acceptable account of mathematical objects which justifies the Vicious Circle Principle. Chapter 7 explores the appropriate shape of formalized predicative mathematics, and the question of just how much mathematics is predicatively acceptable.&#xD;
+&#xD;
+My conclusion is that all of the mathematics which we need can be predicativistically justified, and that such mathematics is&#xD;
+particularly transparent to reason.  This calls into question one currently prevalent view of the nature of mathematics, on which&#xD;
+mathematics is justified by quasi-empirical means.</description><description>Supported by the Arts and Humanities Research Council [grant number 111315].</description><date>2010-08-24T16:13:23Z</date><date>2010-08-24T16:13:23Z</date><date>2010-06-08</date><type>Thesis</type><type>doctoral</type><type>PhD</type><identifier>http://www.dspace.cam.ac.uk/handle/1810/226320</identifier><language>en</language><publisher>University of Cambridge</publisher><publisher>Faculty of Philosophy</publisher></simpledc>

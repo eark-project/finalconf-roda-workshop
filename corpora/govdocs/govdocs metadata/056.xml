@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:doc="http://www.lyncode.com/xoai" xsi:noNamespaceSchemaLocation="../schemas/dc.xsd"><title>A First Class Constraint Generates Not a Gauge Transformation, But a Bad Physical Change: The Case of Electromagnetism</title><creator>Pitts, J. Brian</creator><subject>Dirac-Bergmann constrained dynamics</subject><subject>gauge transformations</subject><subject>canonical quantization</subject><subject>observables</subject><subject>Hamiltonian methods</subject><subject>first-class constraints</subject><subject>problem of time</subject><description>This is the accepted manuscript. The final version is available from Elsevier at http://www.sciencedirect.com/science/article/pii/S0003491614002504.</description><description>In Dirac-Bergmann constrained dynamics, a first-class constraint typically does not alone generate&#xD;
+a gauge transformation. By direct calculation it is found that each first-class constraint in Maxwell’s&#xD;
+theory generates a change in the electric field ~E by an arbitrary gradient, spoiling Gauss’s law. The&#xD;
+secondary first-class constraint pi,i = 0 still holds, but being a function of derivatives of momenta (mere&#xD;
+auxiliary fields), it is not directly about the observable electric field (a function of derivatives of Aμ), which&#xD;
+couples to charge. Only a special combination of the two first-class constraints, the Anderson-Bergmann-&#xD;
+Castellani gauge generator G, leaves ~E unchanged. Likewise only that combination leaves the canonical&#xD;
+action invariant—an argument independent of observables. If one uses a first-class constraint to generate&#xD;
+instead a canonical transformation, one partly strips the canonical coordinates of physical meaning&#xD;
+as electromagnetic potentials, vindicating the Anderson-Bergmann Lagrangian orientation of interesting&#xD;
+canonical transformations. The need to keep gauge-invariant the relation q˙−  H&#xD;
+ p = −Ei−pi = 0 supports&#xD;
+using the gauge generator and primary Hamiltonian rather than the separate first-class constraints and&#xD;
+the extended Hamiltonian.&#xD;
+Partly paralleling Pons’s criticism, it is shown that Dirac’s proof that a first-class primary constraint&#xD;
+generates a gauge transformation, by comparing evolutions from identical initial data, cancels out and&#xD;
+hence fails to detect the alterations made to the initial state. It also neglects the arbitrary coordinates&#xD;
+multiplying the secondary constraints inside the canonical Hamiltonian. Thus the gauge-generating&#xD;
+property has been ascribed to the primaries alone, not the primary-secondary team G. Hence the Dirac&#xD;
+conjecture about secondary first-class constraints as generating gauge transformations rests upon a false&#xD;
+presupposition about primary first-class constraints. Clarity about Hamiltonian electromagnetism will&#xD;
+be useful for an analogous treatment of GR.</description><date>2015-03-16T11:21:56Z</date><date>2015-03-16T11:21:56Z</date><date>2014-09-06</date><type>Article</type><type>accepted version</type><identifier>http://dx.doi.org/10.1016/j.aop.2014.08.014</identifier><identifier>http://www.repository.cam.ac.uk/handle/1810/247013</identifier><language>en</language><publisher>Elsevier</publisher></simpledc>

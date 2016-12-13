@@ -1,0 +1,247 @@
+
+   LOIS LINQUIST, ETC., PETITIONER V. OTIS R. BOWEN, SECRETARY, HEALTH
+AND HUMAN SERVICES, ET AL.
+
+   No. 88-173
+
+   In the Supreme Court of the United States
+
+   October Term, 1988
+
+   On Petition for a Writ of Certiorari to the United States Court of
+Appeals for the Eighth Circuit
+
+   Memorandum for the Respondents in Opposition
+
+   Petitioner, who prevailed against the Secretary of Health and Human
+Services and the Railroad Retirement Board in a class action, seeks an
+award of attorney's fees.  She argues first that the suit created a
+"common benefit," so that an award of attorney's fees is proper under
+28 U.S.C. 2412(b) on a common law theory.  Alternatively, she seeks
+fees under 28 U.S.C. 2412(d), under which she must establish that the
+government's position is not "substantially justified," and asks this
+Court to vacate and remand to the court of appeals for reconsideration
+in light of this Court's decision in Pierce v. Underwood, No. 86-1512
+(June 27, 1988).
+
+   1. a. The underlying case for which petitioner seeks attorney's
+fees was a nationwide class action brought on behalf of persons who
+receive both social security benefits and railroad retirement benefits
+and in addition earn income from outside sources.  Separate provisions
+of the Social Security Act (42 U.S.C. 403(b) and (f)) and the Railroad
+Retirement Act (45 U.S.C. 231(g)(2)) require an offset against an
+individual's benefits of 50 cents for each dollar of earned income in
+excess of an exempt amount.  Petitioner contended that persons who
+receive both social security retirement benefits and railroad
+retirement survivors' benefits may have their benefits reduced by only
+one 50% offset, rather than two.  The district court agreed with
+petitioner and enjoined the use of a double offset (Pet. App.
+17a-57a).
+
+   The court of appeals stayed this order pending appeal, over
+petitioner's vigorous opposition (see Pet. App. 58a).  It then
+affirmed the district court (813 F.2d 884;  Pet. App. 59a-71a).  The
+court acknowledged that Congress did not consider the specific
+question at issue (id. at 69a).  It nevertheless concluded that the
+1972 amendments to the Social Security Act demonstrated an "overriding
+congressional intent" not to discourage retirees from continuing to
+work, and that this purpose would be frustrated by applying two
+offsets (id. at 71a).
+
+   b. Petitioner then filed an application in the court of appeals for
+an award of attorney's fees for the appeal.  /1/ She presented two
+alternate theories to justify such an award:  first, that by
+prevailing in a class action she had created a "common benefit" and
+thus was entitled to an award of fees under 28 U.S.C. 2412(b), which
+waives the government's sovereign immunity to allow an award of
+attorney's fees "to the same extent that any other party would be
+liable under the common law * * *." Alternatively, she sought fees
+under 28 U.S.C. 2412(d), under which the United States is liable for
+attorney's fees to a prevailing party in a civil action in which its
+position was not "substantially justified" (28 U.S.C. 2412(d)(1)(A)).
+/2/ In its initial order (Pet. App. 72a-73a), the court of appeals
+accepted petitioner's common benefit theory and thus did not reach her
+subsection (d) claim.  It awarded $22,362.50 in attorney's fees for
+the appeal, most of it at a rate of $125 an hour (Pet. App. 73a).
+
+   On rehearing, the court of appeals vacated its earlier fee award
+and denied the application for fees (Pet. App. 1a-16a).  The court
+first rejected the claim under Section 2412(d), because the government
+was substantially justified;  it "found the issue on the merits to be
+a close one" (Pet. App. 3a-4a).  The court then rejected petitioner's
+"common benefit" theory, explaining that "the common law basis of the
+common benefit theory envisioned a fee-shifting to the unnamed
+beneficiaries of the litigation" (id. at 8a).  Accordingly, the court
+explained, this theory does not apply when, as here, the government
+(and thus the taxpayers) would bear the cost, rather than just the
+benefitted class (id. at 9a-10a).
+
+   2. The court of appeals' rejection of petitioner's "common benefit"
+theory was correct and does not conflict with any decision of this
+Court or of any court of appeals.  Further review of the question by
+this Court is therefore unwarranted.  Nor is the decision of the court
+of appeals on the alternative theory under Section 2412(d) contrary to
+this Court's subsequent decision in Underwood.  A remand of the case
+in light of Underwood is therefore also unwarranted.
+
+   The underlying theory behind common benefit fee awards, as well as
+common fund awards (from which the common benefit theory is derived)
+is that such awards are proper only when "there (is) reason for
+confidence that the costs could indeed be shifted with some exactitude
+to those benefitting" from the litigation.  Alyeska Pipeline Co. v.
+Wilderness Society, 421 U.S. 240, 265 n.39 (1975).  This objective is
+met directly when the award is under a common fund theory, where an
+attorney's fee may be deducted from the monetary recovery that will be
+paid by the defendant to the members of the victorious class.  /3/ The
+common benefit theory is available where, although there is no
+specific fund that has been awarded to the plaintiffs, having the
+defendant pay the fee award will still result in shifting the cost of
+the fee to the benefitted parties, because all of the owners or
+members or beneficiaries of the defendant will equally benefit from
+the outcome of the case.  For example, in a shareholders' suit, where
+the expenses of plaintiff's lawsuit have been incurred for the benefit
+of the corporation and the other shareholders, a fee award is proper
+because "(t)o allow the (other shareholders) to obtain full benefit
+from the plaintiff's efforts without contributing equally to the
+litigation expenses would be to enrich the others unjustly at the
+plaintiff's expense." Mills v. Electric Auto-Lite Co., 396 U.S. 375,
+392 (1970).  Similarly, litigation brought by a member of a union
+against the union itself "necessarily render(s) a substantial service
+to his union as an institution and to all of its members" by
+"dispel(ling) the 'chill' cast upon the rights of others." Hall v.
+Cole, 412 U.S. 1, 7, 8 (1973).  As in the case of the shareholder
+suit, such an award merely shifts the costs of the litigation to those
+who benefit from it (id. at 9).
+
+   The courts of appeals have uniformly rejected fee requests based on
+the common benefit theory where it cannot be said that the people who
+benefit from the litigation are ultimately paying the fee.  For
+example, in Grace v. Burger, 763 F.2d 457 (D.C. Cir. 1985), plaintiff
+had successfully challenged a statute restricting the right to
+demonstrate on the grounds of the Supreme Court.  The D.C. Circuit
+denied fees on a common benefit theory, reasoning that "(a)n award of
+fees here would not compel the beneficiaries to compensate the winning
+litigant who acted as their representative, but would assess costs
+against the unrelated losing party" (id. at 460).  See also Murphy v.
+International Union of Operating Engineers, 774 F.2d 114, 127 (6th
+Cir. 1985);  Holbrook v. Pitt, 748 F.2d 1168, 1174-1175 (7th Cir.
+1984);  Shimman v. International Union of Operating Engineers, 744
+F.2d 1226, 1234-1236 (6th Cir. 1984) (en banc);  Wilderness Society v.
+Morton, 495 F.2d 1026, 1029 (D.C. Cir. 1974) (en banc), aff'd sub nom.
+Alyeska Pipeline Co. v. Wilderness Society, 421 U.S. at 245 & n.14,
+259-260.  Most directly on point is Jordan v. Heckler, 744 F.2d 1397,
+1400-1401 (10th Cir. 1984), which, like the present case, involved a
+claim for attorney fees for the successful litigation of a class
+action challenging the agency's interpretation of a provision of the
+Social Security Act.  The court noted that a common benefit award was
+not proper because it would not spread the cost proportionately among
+the beneficiaries of the litigation, but rather was "simply an award
+against the Government or all persons who pay Social Security taxes"
+(744 F.2d at 1400).  Similarly here, the persons who benefitted from
+this litigation were those from whom the government had collected two
+offsets.  A fee award against the agencies, however, would be paid,
+not just by those benefitted, but by all taxpayers.  A fee award here
+would thus greatly expand the common law theory of common benefit.
+
+   Petitioner appears to acknowledge that the common law concept of
+common benefit fee awards does not apply to this case.  /4/ Instead,
+she candidly calls on this Court to expand the common benefit theory
+to cover this case (Pet. 10).  She suggests that when Congress adopted
+Section 2412(b), "in effect, it amended the common benefit theory in
+this context" to allow such a new theory (Pet. 10).  This argument is
+untenable.  Section 2412(b) does not expressly refer to the common
+benefit theory;  it simply states that "(t)he United States shall be
+liable for such fees and expenses to the same extent that any other
+party would be liable under the common law * * *." Accordingly, the
+statute cannot be read as mandating the application of the common
+benefit theory against the United States, thereby expanding the scope
+of liability under that theory beyond the circumstances recognized
+under common law.  It simply applies existing theories "to the same
+extent that" they apply to private parties.  The legislative history
+confirms that the purpose of this section was that "the United States
+should be held to the same standards in litigating as private parties"
+and that "the Federal government and civil litigants (should be
+placed) on a completely equal footing." H.R. Rep. 96-1418, 96th Cong.,
+2d Sess. 9 (1980).  While it may be true that it will normally be
+quite difficult to use a common benefit theory against the United
+States, that result follows only because of the nature of litigation
+against the United States.  If and when a case arises that does fit
+within the common benefit theory as it applies to private parties, the
+United States will be liable for fees.  /5/
+
+   Indeed, under petitioner's interpretation of the statute, Section
+2412(d) would lose much of its purpose, allowing litigants to use the
+"common benefit" analysis to evade the requirement that a fee award be
+made only when the government's position is not substantially
+justified, whenever the litigation can be said to have resulted in
+some public benefit.  Thus, if petitioner is to obtain attorney's fees
+here, she must meet the standards of Section 2412(d).
+
+   3. Petitioner alternatively asks this Court to vacate the court of
+appeals' refusal to make a fee award under Section 2412(d) and to
+remand for reconsideration in light of Underwood.  Petitioner contends
+that the court of appeals determined that the government's position
+was substantially justified on the basis of two objective factors that
+this Court rejected in Underwood (Pet. 13-14).  But petitioner
+misreads Underwood.  In that case, the Court simply found that the
+objective factors, while relevant, were not conclusive, and were an
+insufficient basis on which to overturn the determination of the court
+entrusted with the responsibility for making the fee decision that the
+government's position was not substantially justified (slip op.
+14-16).  The court of appeals here relied on factors similar to those
+in Underwood -- the grant of a stay and the fact that the decision on
+the merits was in conflict with a decision of the D.C. Circuit in an
+earlier case.  But Underwood recognized that those factors are
+relevant, though not conclusive, and the court of appeals here cited
+them simply as support for the ultimate conclusion that "we found the
+issue on the merits to be a close one" (Pet. App. 4a).  It is also
+significant that in this case the court of appeals was itself the
+court entrusted with the responsibility for determining, in the first
+instance, whether a fee award was appropriate for representation in
+that court, and thus it was not reviewing a lower court decision
+regarding substantial justification.  In that context, it was entirely
+proper for it to consider factors the Court in Underwood recognized as
+relevant, and to give them such weight as the court considered
+appropriate in the circumstances.
+
+   It is therefore respectfully submitted that the petition for a writ
+of certiorari should be denied.
+
+   CHARLES FRIED
+
+      Solicitor General
+
+   SEPTEMBER 1988
+
+   /1/ Petitioner's parallel application in the district court for
+attorney's fees for work in that court remains pending.
+
+   /2/ Unlike fee awards under subsection (b), fee awards under this
+subsection are subject to a cap of $75 an hour, adjustable for "an
+increase in the cost of living or a special factor" (28 U.S.C.
+2412(d)(2)(A)).  See Underwood, slip op. 17-20.
+
+   /3/ The back benefits awarded to class members in this case created
+a fund out of which a common fund award might possibly have been paid,
+but petitioner waived any recovery of fees out of that fund (Pet. App.
+7a n.5).
+
+   /4/ Petitioner objects to the court of appeals' conclusion "that
+the common benefit theory (must) be applied exactly as it had been
+developed in the common law" (Pet. 7), and concedes that while the
+common law theory requires that the defendant pay the fee only if it
+is "a proxy for * * * a benefitted class of recipients," the United
+States "will never be" such a proxy (Pet. 9).
+
+   /5/ Petitioner also argues that her position is supported by 28
+U.S.C. 2412(c)(2).  But that section, like Section 2412(b), makes no
+mention of the common benefit theory.  Section 2412(c)(2) merely
+allocates the responsibility to pay a fee award between the Treasury
+and the individual agencies, if and when an award is properly assessed
+under other sections of the statute.  (For example, it requires the
+agency to pay rather than the Treasury if the basis of the award is
+bad faith.) In any event, Congress was careful to provide in Section
+2412(b) that a fee award can be made only if a private party would
+have been liable.  Congress would scarcely have made a significant
+substantive addition to the explicit coverage of Section 2412(b) in a
+statutory provision dealing with allocations.

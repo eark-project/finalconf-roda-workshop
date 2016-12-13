@@ -1,0 +1,300 @@
+####018004465####
+NOUS41 KBOX 040116
+PNSBOX
+CTZ002>004-MAZ002>024-026-NHZ011-012-015-RIZ001>008-041313-
+
+PUBLIC INFORMATION STATEMENT
+SPOTTER REPORTS
+NATIONAL WEATHER SERVICE TAUNTON MA
+815 PM EST TUE FEB 3 2009
+
+THE FOLLOWING ARE UNOFFICIAL OBSERVATIONS TAKEN DURING THE PAST 24 
+HOURS FOR THE STORM THAT HAS BEEN AFFECTING OUR REGION.  
+APPRECIATION IS EXTENDED TO HIGHWAY DEPARTMENTS...COOPERATIVE 
+OBSERVERS...SKYWARN SPOTTERS AND MEDIA FOR THESE REPORTS.  THIS 
+SUMMARY IS ALSO AVAILABLE ON OUR HOME PAGE AT WEATHER.GOV/BOSTON
+
+********************STORM TOTAL SNOWFALL********************
+
+LOCATION          STORM TOTAL    TIME/DATE    COMMENTS
+                     SNOWFALL       OF
+                     (INCHES)   MEASUREMENT
+
+
+CONNECTICUT
+
+...HARTFORD COUNTY...
+   BURLINGTON             3.0   508 PM   2/3   PUBLIC
+   WINDSOR LOCKS          2.4   700 PM   2/3   BDL AIRFIELD
+   EAST GRANBY            2.0   500 PM   2/3   CT DOT
+   AVON                   1.5   500 PM   2/3   CT DOT
+
+...TOLLAND COUNTY...
+   STAFFORDVILLE          3.2   547 PM   2/3   NWS COOP
+   WILLINGTON             3.0   644 PM   2/3   SPOTTER
+   UNION                  2.3   500 PM   2/3   CT DOT
+   MANSFIELD              1.8   500 PM   2/3   CT DOT
+   VERNON                 1.5   500 PM   2/3   CT DOT
+
+...WINDHAM COUNTY...
+   POMFRET CENTER         4.0   620 PM   2/3   SPOTTER
+   HAMPTON                3.0   506 PM   2/3   NWS COOP
+   MOOSUP                 3.0   533 PM   2/3   PUBLIC
+   THOMPSON               2.3   522 PM   2/3   SPOTTER
+   PUTNAM                 1.3   500 PM   2/3   CT DOT
+
+MASSACHUSETTS
+
+...BARNSTABLE COUNTY...
+   EAST SANDWICH          3.4   340 PM   2/3   NWS EMPLOYEE
+   MARSTONS MILLS         3.2   600 PM   2/3   NWS EMPLOYEE
+
+...BRISTOL COUNTY...
+   MANSFIELD              5.0   618 PM   2/3   SPOTTER
+   TAUNTON                3.2   700 PM   2/3   NWS OFFICE
+
+...ESSEX COUNTY...
+   TOPSFIELD              3.6   650 PM   2/3   SPOTTER
+   ROCKPORT               2.5   342 PM   2/3   MEDIA
+   IPSWICH                1.6   500 PM   2/3   SPOTTER
+
+...HAMPDEN COUNTY...
+   LONGMEADOW             3.2   517 PM   2/3   SPOTTER
+
+...HAMPSHIRE COUNTY...
+   GOSHEN                 3.0   500 PM   2/3   SPOTTER
+   WESTHAMPTON            2.0   645 PM   2/3   SPOTTER
+
+...MIDDLESEX COUNTY...
+   BELMONT                2.0   445 PM   2/3   SPOTTER
+   CHELMSFORD             2.0   620 PM   2/3   PUBLIC
+
+...NORFOLK COUNTY...
+   NORWOOD                2.4   635 PM   2/3   NWS EMPLOYEE
+
+...PLYMOUTH COUNTY...
+   MIDDLEBOROUGH          3.5   420 PM   2/3   HAM RADIO
+   WEST BRIDGEWATER       3.5   420 PM   2/3   HAM RADIO
+   PEMBROKE               3.3   540 PM   2/3   HAM RADIO
+   WHITMAN                3.2   420 PM   2/3   HAM RADIO
+   BROCKTON               3.0   420 PM   2/3   HAM RADIO
+   HANSON                 3.0   540 PM   2/3   HAM RADIO
+   NORWELL                2.0   233 PM   2/3   SPOTTER
+
+...SUFFOLK COUNTY...
+   BOSTON                 3.1   700 PM   2/3   LOGAN AIRPORT
+
+...WORCESTER COUNTY...
+   MILFORD                3.0   551 PM   2/3   SPOTTER
+   WORCESTER              2.9   700 PM   2/3   ORH AIRPORT
+
+NEW HAMPSHIRE
+
+...HILLSBOROUGH COUNTY...
+   WILTON                 1.0   733 PM   2/3   SPOTTER
+
+RHODE ISLAND
+
+...KENT COUNTY...
+   COVENTRY               3.0   534 PM   2/3   SPOTTER
+   WEST WARWICK           2.9   417 PM   2/3   SPOTTER
+   WARWICK                2.1   700 PM   2/3   TF GREEN ARPT
+
+...NEWPORT COUNTY...
+   LITTLE COMPTON         2.0   548 PM   2/3   SPOTTER
+
+...PROVIDENCE COUNTY...
+   WOONSOCKET             4.3   710 PM   2/3   SPOTTER
+   BURRILLVILLE           3.3   543 PM   2/3   PUBLIC
+   PAWTUCKET              2.1   451 PM   2/3   SPOTTER
+   PROVIDENCE             2.0   550 PM   2/3   PUBLIC
+
+...WASHINGTON COUNTY...
+   NORTH KINGSTOWN        3.4   800 PM   2/3   SPOTTER
+
+********************SUSTAINED WIND SPEED ********************
+
+LOCATION SUSTAINED WIND SPEED    TIME/DATE    COMMENTS
+                                    OF
+                        (MPH)   MEASUREMENT
+
+
+MASSACHUSETTS
+
+...BARNSTABLE COUNTY...
+   PROVINCETOWN            32   115 PM   2/3   AWOS
+
+...NANTUCKET COUNTY...
+   NANTUCKET               31  1207 PM   2/3   ASOS
+
+$$
+
+KAB
+
+
+
+
+####018005749####
+NOUS41 KPHI 040117
+PNSPHI
+DEZ001>004-MDZ008-012-015-019-020-NJZ001-007>010-012>027-PAZ054-055-
+060>062-067>071-041313-
+
+PUBLIC INFORMATION STATEMENT
+SPOTTER REPORTS
+NATIONAL WEATHER SERVICE MOUNT HOLLY NJ
+815 PM EST TUE FEB 3 2009
+
+THE FOLLOWING ARE UNOFFICIAL OBSERVATIONS TAKEN DURING THE PAST 26 HOURS
+FOR THE STORM THAT HAS BEEN AFFECTING OUR REGION.  APPRECIATION IS EXTENDED
+TO HIGHWAY DEPARTMENTS...COOPERATIVE OBSERVERS...SKYWARN SPOTTERS 
+AND MEDIA FOR THESE REPORTS.  THIS SUMMARY IS ALSO AVAILABLE ON OUR 
+HOME PAGE AT WEATHER.GOV/PHI
+
+********************STORM TOTAL SNOWFALL********************
+
+LOCATION          STORM TOTAL    TIME/DATE    COMMENTS
+                     SNOWFALL       OF
+                     (INCHES)   MEASUREMENT
+
+
+DELAWARE
+
+...NEW CASTLE COUNTY...
+   BEAR                   0.5   715 PM   2/3  
+   WILMINGTON             0.5   700 PM   2/3   COUNTY AIRPORT
+
+NEW JERSEY
+
+...ATLANTIC COUNTY...
+   HAMMONTON              1.9   651 PM   2/3   SPOTTER
+   ATLANTIC CITY          1.8   700 PM   2/3   INTERNATIONAL AIRPORT
+   PLEASANTVILLE          1.8   725 PM   2/3  
+   ESTELL MANOR           1.4   110 PM   2/3   COOP
+
+...BURLINGTON COUNTY...
+   SOUTHAMPTON            4.0   730 PM   2/3  
+   CROSSWICKS             3.6   725 PM   2/3  
+   EDGEWATER PARK         2.8   800 PM   2/3   NWS EMPLOYEE
+   TABERNACLE             2.7   545 PM   2/3   SPOTTER
+   MOUNT HOLLY            2.5   725 PM   2/3   NWS OFFICE
+
+...CAMDEN COUNTY...
+   SICKLERVILLE           1.8   430 PM   2/3   SPOTTER
+
+...CAPE MAY COUNTY...
+   CAPE MAY               1.3   542 PM   2/3   HARBOR
+   SEAVILLE               1.3   542 PM   2/3   SPOTTER
+   WEST CAPE MAY          1.0  1240 PM   2/3   SPOTTER 
+   GREEN CREEK            0.8  1218 PM   2/3   SPOTTER
+   WOODBINE               0.8  1218 PM   2/3   SPOTTER
+   GREEN CREEK            0.5   544 PM   2/3   COMPRESSED
+   NORTH CAPE MAY         0.3   543 PM   2/3   SPOTTER
+
+...CUMBERLAND COUNTY...
+   VINELAND               0.3   618 PM   2/3   SPOTTER
+
+...GLOUCESTER COUNTY...
+   NATIONAL PARK          1.5   715 PM   2/3  
+
+...HUNTERDON COUNTY...
+   WHITEHOUSE             3.5   654 PM   2/3  
+
+...MERCER COUNTY...
+   EWING                  2.6   513 PM   2/3  
+
+...MIDDLESEX COUNTY...
+   EDISON                 5.2   800 PM   2/3  
+   NORTH BRUNSWICK        5.2   807 PM   2/3  
+   METUCHEN               4.5   800 PM   2/3  
+
+...MONMOUTH COUNTY...
+   COLTS NECK             5.0   800 PM   2/3  
+   FREEHOLD               4.0   653 PM   2/3   SPOTTER
+   FREEHOLD               4.0   800 PM   2/3  
+   CREAM RIDGE            2.7   523 PM   2/3   SPOTTER
+   HAMILTON               1.1   111 PM   2/3   SPOTTER
+
+...MORRIS COUNTY...
+   WHIPPANY               3.0   500 PM   2/3   SPOTTER
+   BUTLER                 2.9   515 PM   2/3   SPOTTER
+   MARCELLA               1.0   830 AM   2/3   SPOTTER
+   RANDOLPH#MORRIS        0.7   700 AM   2/3   COCORAHS
+
+...OCEAN COUNTY...
+   TOMS RIVER             5.0   800 PM   2/3  
+   BAYVILLE               3.0   545 PM   2/3   SPOTTER
+   MANAHAWKIN             3.0   800 PM   2/3  
+
+...SOMERSET COUNTY...
+   GREEN BROOK PARK       3.5   800 PM   2/3  
+   HILLSBOROUGH           3.1   257 PM   2/3   SPOTTER
+   HILLSBOROUGH           2.8   429 PM   2/3   SPOTTER
+   BRANCHBURG PARK        2.7   356 PM   2/3   SPOTTER
+   SOMERVILLE             2.0   430 PM   2/3   SPOTTER
+
+...SUSSEX COUNTY...
+   WANTAGE                3.3   619 PM   2/3  
+
+...WARREN COUNTY...
+   HACKETTSTOWN           2.4   725 PM   2/3  
+   STEWARTSVILLE          2.4   400 PM   2/3   SPOTTER
+   ALLAMUCHY              2.0   300 PM   2/3  
+   BLAIRSTOWN             2.0   515 PM   2/3   SPOTTER
+
+PENNSYLVANIA
+
+...BERKS COUNTY...
+   LONGSWAMP              3.3   549 PM   2/3   1000 FT ELEVATION
+   FLEETWOOD              1.5   700 AM   2/3   COCORAHS
+
+...BUCKS COUNTY...
+   BENSALEM               3.5   725 PM   2/3  
+   FEASTERVILLE           3.4   745 PM   2/3  
+   PERKASIE               3.3   800 PM   2/3  
+   QUAKERTOWN             3.3   800 PM   2/3  
+   LEVITTOWN              3.0   800 PM   2/3  
+   WEST ROCKHILL          0.5   747 AM   2/3  
+   FURLONG                0.3  1136 AM   2/3   SPOTTER
+
+...CARBON COUNTY...
+   LAKE HARMONY           2.5   800 PM   2/2  
+   JIM THORPE             1.0   700 AM   2/3   COCORAHS
+
+...CHESTER COUNTY...
+   WEST CALN              4.3   406 PM   2/3   SPOTTER
+   PHOENIXVILLE           3.6   530 PM   2/3   SPOTTER
+   EAST NANTMEAL          1.5   900 AM   2/3   SPOTTER
+   DOWNINGTOWN            1.0   900 AM   2/3   SPOTTER
+   OXFORD                 1.0  1001 AM   2/3  
+   EXTON                  0.7   940 AM   2/3   SPOTTER
+
+...DELAWARE COUNTY...
+   NEWTOWN SQUARE         0.3   658 AM   2/3   SPOTTER
+
+...LEHIGH COUNTY...
+   ALLENTOWN              1.4   700 PM   2/3   INTERNATIONAL AIRPORT
+    
+...MONROE COUNTY...
+   DELAWARE WATER GAP     3.2   356 PM   2/3   SPOTTER
+   TOBYHANNA              2.5   700 PM   2/2  
+
+...MONTGOMERY COUNTY...
+   WILLOW GROVE           4.0   800 PM   2/3  
+   ELKINS PARK            2.5   455 PM   2/3   SPOTTER
+   WYNNEWOOD              2.3   600 PM   2/3   SPOTTER
+
+...NORTHAMPTON COUNTY...
+   EASTON DAM             2.7   622 PM   2/3   FORKS TWP
+   TATAMY                 1.8   653 PM   2/3   SPOTTER
+   BETHLEHEM              1.5   544 PM   2/3   SPOTTER
+
+...PHILADELPHIA COUNTY...
+   PHILADELPHIA           1.5   700 PM   2/3   INTERNATIONAL AIRPORT
+    
+
+$$
+
+TFG
+
+

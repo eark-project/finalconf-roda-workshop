@@ -1,0 +1,536 @@
+     REPORT NO. 46187          B R O A D C A S T   A C T I O N S                    03/08/2006 
+
+STATE  FILE NUMBER  E/P	CALL LETTERS	APPLICANT AND LOCATION			NATURE OF APPLICATION
+Actions of: 03/02/2006
+
+AM STATION APPLICATIONS FOR MAJOR MODIFICATION TO A LICENSED FACILITY DISMISSED
+-------------------------------------------------------------------------------
+
+IL  BMJP-20050114ADY	WMCW  43241	KOVAS COMMUNICATIONS OF INDIANA, INC.	Major change in licensed facilities.
+		    E	1180 KHZ	HARVARD, IL				Engineering Amendments filed 
+										3/31, 4/6 & 7/1/2005.
+										
+										Application dismissed by 
+										letter DA 06-502 dated 03/02/2006
+
+
+FM AUXILIARY TRANSMITTING ANTENNA APPLICATIONS FOR LICENSE TO COVER AUXILIARY PERMIT GRANTED
+--------------------------------------------------------------------------------------------
+
+MO  BXLH-20040524AMJ	KRMS-FM  35553	VIPER COMMUNICATIONS, INC.		License to cover auxiliary permit.
+		    E	93.5 MHZ	OSAGE BEACH, MO	
+
+Actions of: 03/03/2006
+
+AM STATION APPLICATIONS FOR ASSIGNMENT OF LICENSE GRANTED
+---------------------------------------------------------
+
+MO  BAL-20051118AEP	KCMO  33391	SUSQUEHANNA KANSAS CITY PARTNERSHIP	Voluntary Assignment of License, 
+		    E	710 KHZ		KANSAS CITY, MO				as amended
+										From: SUSQUEHANNA KANSAS 
+										CITY PARTNERSHIP
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+AL  BAL-20060111ACB	WANA  2311	DEWEY D. LANKFORD			Voluntary Assignment of License
+		    E	1490 KHZ	ANNISTON, AL				From: DEWEY D. LANKFORD
+										To: JACOBS BROADCAST GROUP, INC.
+										Form 314
+										
+
+
+AM STATION APPLICATIONS FOR LICENSE TO COVER GRANTED
+----------------------------------------------------
+
+TN  BL-20051117AFD	WCOR  129317	WCKD, INC.				License to cover.
+		    P	1490 KHZ	LEBANON, TN	
+
+
+AM STATION APPLICATIONS FOR ORIGINAL CONSTRUCTION PERMIT GRANTED
+----------------------------------------------------------------
+
+HI  BNP-20050118ACQ	NEW  161081	FRED R AND EVELYN K MORTON		AM Auction 84
+		    E	1590 KHZ	HILO, HI				CP New Station.
+										Engineering Amendment filed 12/05/2005
+
+AK  BNP-20050118AJY	NEW  161285	WHITE OAK BROADCASTING OF ALASKA, INC.	AM Auction 84
+		    E	1290 KHZ	SITKA, AK				CP New Station.
+
+
+AM STATION APPLICATIONS FOR MINOR CHANGE TO A LICENSED FACILITY GRANTED
+-----------------------------------------------------------------------
+
+PA  BP-20040112AAV	WPDC  32974	JVJ COMMUNICATIONS, INC.		Minor change in licensed facilities
+		    E	1600 KHZ	ELIZABETHTOWN, PA			Engineering Amendments filed 
+										11/5/2004, 4/21
+										& 11/2/2005.
+
+OR  BP-20051114ABM	KXMG  71752	BUSTOS MEDIA OF OREGON LICENSE, LLC	Minor change in licensed facilities.
+		    E	1150 KHZ	PORTLAND, OR				
+										Petition to Deny filed 12/16/05 
+										by ("JNE")
+										
+										Request for Extension of 
+										Time to file Opposition to
+										Petition to Deny filed 12/28/05 
+										by (Bustos)
+										
+										Request for Voluntary Dismissal 
+										of Petition to Deny filed
+										1/17/06 by ("JNE")
+
+NC  BP-20051129AAC	WFAY  72055	COLONIAL RADIO GROUP, INC.		Minor change in licensed facilities.
+		    E	1230 KHZ	FAYETTEVILLE, NC	
+
+
+AM STATION APPLICATIONS FOR TRANSFER OF CONTROL GRANTED
+-------------------------------------------------------
+
+TX  BTC-20051118ACQ	KTCK  8773	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	1310 KHZ	DALLAS, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTC-20051118ACT	KKLF  86684	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	1700 KHZ	SHERMAN, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTC-20051118ACV	KGVL  21598	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	1400 KHZ	GREENVILLE, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTC-20051118ACX	KLIF  35061	KLIF LICO, INC.				Voluntary Transfer of Control, 
+		    E	570 KHZ		DALLAS, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+CA  BTC-20051118ACY	KNBR  35208	KNBR LICO, INC.				Voluntary Transfer of Control, 
+		    E	680 KHZ		SAN FRANCISCO, CA			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+PA  BTC-20051118ADA	WSBA  73979	WSBA LICO, INC.				Voluntary Transfer of Control, 
+		    E	910 KHZ		YORK, PA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+										*GRANTED WITH CONDITION*
+										
+
+PA  BTC-20051118AEN	WGLD  55352	SUSQUEHANNA LICENSE CO., LLC		Voluntary Transfer of Control, 
+		    E	1440 KHZ	RED LION, PA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+										*GRANTED WITH CONDITION*
+										
+
+IN  BTC-20051118AEW	WAVG  63935	SUNNYSIDE COMMUNICATIONS, INC		Voluntary Transfer of Control, 
+		    E	1450 KHZ	JEFFERSONVILLE, IN			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+IN  BTC-20051121AJP	WZZB  58381	S.C.I. BROADCASTING, INC.		Voluntary Transfer of Control, 
+		    E	1390 KHZ	SEYMOUR, IN				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA 
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+
+AM STATION APPLICATIONS FOR DIRECT MEASUREMENT GRANTED
+------------------------------------------------------
+
+MN  BZ-20050111AEC	KOLM  50288	CUMULUS LICENSING LLC			Direct Measurement
+		    P	1520 KHZ	ROCHESTER, MN	
+
+OR  BZ-20051012ADK	KKPZ  4113	KPHP RADIO, INC.			Direct Measurement
+		    P	1330 KHZ	PORTLAND, OR	
+
+
+FM BOOSTER APPLICATIONS FOR TRANSFER OF CONTROL GRANTED
+-------------------------------------------------------
+
+CA  BTCFTB-20051118ACN	KFOG-FM3  54773	KFFG LICO, INC				Voluntary Transfer of Control, 
+		    E	104.5 MHZ	PLEASANTON, ETC., CA			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+
+FM STATION APPLICATIONS FOR ASSIGNMENT OF LICENSE GRANTED
+---------------------------------------------------------
+
+TX  BALH-20051118ADC	KIOL  48676	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	103.7 MHZ	LA PORTE, TX				as amended
+										From: CUMULUS LICENSING LLC
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+TX  BALH-20051118ADD	KFNC  52407	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	97.5 MHZ	BEAUMONT, TX				as amended
+										From: CUMULUS LICENSING LLC
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+KS  BALH-20051118ADE	KCHZ  33332	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	95.7 MHZ	OTTAWA, KS				as amended
+										From: CUMULUS LICENSING LLC
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+MO  BALH-20051118ADF	KMJK  33713	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	107.3 MHZ	LEXINGTON, MO				as amended
+										From: CUMULUS LICENSING LLC
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+KS  BALH-20051118ADJ	KMAJ-FM  42012	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	107.7 MHZ	TOPEKA, KS				as amended
+										From: CUMULUS LICENSING LLC
+										To: KANSAS CITY TRUST, LLC, TRUSTEE
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+KS  BALH-20051118ADN	KCHZ  33332	CUMULUS LICENSING LLC			Voluntary Assignment of License, 
+		    E	95.7 MHZ	OTTAWA, KS				as amended
+										From: CMP HOUSTON-KC, LLC
+										To: KANSAS CITY TRUST, LLC, TRUSTEE
+										Form 314
+										See BALH-20051118ADE
+										
+										*GRANTED WITH CONDITION*
+										
+
+MO  BALH-20051118AEQ	KCMO-FM  6385	SUSQUEHANNA KANSAS CITY PARTNERSHIP	Voluntary Assignment of License, 
+		    E	94.9 MHZ	KANSAS CITY, MO				as amended
+										From: SUSQUEHANNA KANSAS 
+										CITY PARTNERSHIP
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+MO  BALH-20051118AER	KCFX  27021	SUSQUEHANNA KANSAS CITY PARTNERSHIP	Voluntary Assignment of License, 
+		    E	101.1 MHZ	HARRISONVILLE, MO			as amended
+										From: SUSQUEHANNA KANSAS 
+										CITY PARTNERSHIP
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+MO  BALH-20051118AEU	KCJK  87565	105.1FM, LLC				Voluntary Assignment of License, 
+		    E	105.1 MHZ	GARDEN CITY, MO				as amended
+										From: 105.1FM, LLC
+										To: CMP HOUSTON-KC, LLC
+										Form 314
+										
+										*GRANTED WITH CONDITION*
+										
+
+
+FM STATION APPLICATIONS FOR LICENSE TO COVER GRANTED
+----------------------------------------------------
+
+MO  BLH-20060106ABP	KSYN  73244	ZIMCO, INC.				License to cover.
+		    E	92.5 MHZ	JOPLIN, MO	
+
+CA  BLED-20060106ABX	KWTH  87122	LIVING PROOF, INC.			License to cover.
+		    E	91.3 MHZ	BARSTOW, CA	
+
+
+FM STATION APPLICATIONS FOR MODIFICATION OF LICENSE GRANTED
+-----------------------------------------------------------
+
+MT  BMLH-20050510ADB	KVCK-FM  73384	WOLF TOWN WIRELESS, INC.		License to modify
+		    E	92.7 MHZ	WOLF POINT, MT	
+
+
+FM STATION APPLICATIONS FOR MINOR MODIFICATION TO A CONSTRUCTION PERMIT GRANTED
+-------------------------------------------------------------------------------
+
+UT  BMPH-20051116ADA	NEW  164258	SANPETE COUNTY BROADCASTING CO.		Mod of CP to chg
+		    E	100.5 MHZ	MONROE, UT				Engineering Amendment filed 02/02/2006
+
+
+FM STATION APPLICATIONS FOR MINOR CHANGE TO A LICENSED FACILITY GRANTED
+-----------------------------------------------------------------------
+
+IA  BPH-20040817ABP	KHKI  12966	CITADEL BROADCASTING COMPANY		Minor change in licensed facilities.
+		    E	97.3 MHZ	DES MOINES, IA				Engineering Amendments filed 
+										9/7 & 11/8/2004
+										and 2/24/2006.
+
+CA  BPH-20041013ABR	KPRI  51503	COMPASS RADIO OF SAN DIEGO, INC.	Minor change in licensed facilities.
+		    E	102.1 MHZ	ENCINITAS, CA				Engineering Amendment filed 12/15/2004
+
+
+FM STATION APPLICATIONS FOR TRANSFER OF CONTROL GRANTED
+-------------------------------------------------------
+
+CA  BTCH-20051118ACL	KFFG  58843	KFFG LICO, INC.				Voluntary Transfer of Control, 
+		    E	97.7 MHZ	LOS ALTOS, CA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+CA  BTCH-20051118ACM	KFOG  54770	KFFG LICO, INC				Voluntary Transfer of Control, 
+		    E	104.5 MHZ	SAN FRANCISCO, CA			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTCH-20051118ACP	KRBE  35524	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	104.1 MHZ	HOUSTON, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTCH-20051118ACS	KTDK  26146	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	104.1 MHZ	SANGER, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTCH-20051118ACU	KIKT  21597	KRBE LICO, INC.				Voluntary Transfer of Control, 
+		    E	93.5 MHZ	GREENVILLE, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+TX  BTCH-20051118ACW	KDBN  27299	TEXAS STAR RADIO, INC.			Voluntary Transfer of Control, 
+		    E	93.3 MHZ	HALTOM CITY, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+PA  BTCH-20051118ADB	WARM-FM  73980	WSBA LICO, INC.				Voluntary Transfer of Control, 
+		    E	103.3 MHZ	YORK, PA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+										*GRANTED WITH CONDITION*
+										
+
+TX  BTCH-20051118ADH	KPLX  54675	KPLX LICO, INC.				Voluntary Transfer of Control, 
+		    E	99.5 MHZ	FORT WORTH, TX				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+IN  BTCH-20051118ADI	WFMS  54622	WFMS LICO, INC				Voluntary Transfer of Control, 
+		    E	95.5 MHZ	INDIANAPOLIS, IN			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+IN  BTCH-20051118ADK	WISG  71438	INDY LICO, INC.				Voluntary Transfer of Control, 
+		    E	93.9 MHZ	FISHERS, IN				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+IN  BTCH-20051118ADL	WJJK  28609	INDY LICO, INC				Voluntary Transfer of Control, 
+		    E	104.5 MHZ	NOBLESVILLE, IN				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+GA  BTCH-20051118ADO	WNNX  73345	WNNX LICO, INC.				Voluntary Transfer of Control, 
+		    E	99.7 MHZ	ATLANTA, GA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+GA  BTCH-20051118ADP	WWWQ  6809	WNNX LICO, INC.				Voluntary Transfer of Control, 
+		    E	100.5 MHZ	COLLEGE PARK, GA			as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+OH  BTCH-20051118ADR	WMOJ  73369	WVAE LICO, INC.				Voluntary Transfer of Control, 
+		    E	94.9 MHZ	FAIRFIELD, OH				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+OH  BTCH-20051118ADS	WYGY  10143	WVAE LICO, INC.				Voluntary Transfer of Control, 
+		    E	96.5 MHZ	LEBANON, OH				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+OH  BTCH-20051118AEJ	WRRM  3142	WRRM LICO, INC				Voluntary Transfer of Control, 
+		    E	98.5 MHZ	CINCINNATI, OH				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+IN  BTCH-20051118AEK	WQKC  58380	S.C.I. BROADCASTING, INC.		Voluntary Transfer of Control, 
+		    E	93.7 MHZ	SEYMOUR, IN				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+
+PA  BTCH-20051118AEM	WSOX  55351	SUSQUEHANNA LICENSE CO. LLC		Voluntary Transfer of Control, 
+		    E	96.1 MHZ	RED LION, PA				as amended
+										From: SHAREHOLDERS OF SUSQUEHANNA
+										PFALTZGRAFF CO.
+										To: CMP SUSQUEHANNA CORP.
+										Form 315
+										
+										*GRANTED WITH CONDITION*
+										
+
+
+FM AUXILIARY TRANSMITTING ANTENNA APPLICATIONS FOR LICENSE TO COVER AUXILIARY PERMIT GRANTED
+--------------------------------------------------------------------------------------------
+
+NJ  BXLH-20040714ABF	WHTZ  59953	AMFM RADIO LICENSES, L.L.C.		License to cover auxiliary permit.
+		    E	100.3 MHZ	NEWARK, NJ				Engineering Amendment filed 07/29/2004
+
+NY  BXLH-20040715ABE	WLTW  56571	AMFM RADIO LICENSES, L.L.C.		License to cover auxiliary permit.
+		    E	106.7 MHZ	NEW YORK, NY	
+
+NY  BXLH-20040719AAP	WKTU  6595	AMFM RADIO LICENSES, L.L.C.		License to cover auxiliary permit.
+		    E	103.5 MHZ	LAKE SUCCESS, NY	
+
+PA  BXLH-20060106ABA	WSOX  55351	SUSQUEHANNA LICENSE CO. LLC		License to cover auxiliary permit.
+		    E	96.1 MHZ	RED LION, PA	
+
+
+FM TRANSLATOR APPLICATIONS FOR ASSIGNMENT OF PERMIT GRANTED
+-----------------------------------------------------------
+
+AL  BAPFT-20060103ABV	W247AT  157017	JAMES R. HENDERSON			Voluntary Assignment of Construction 
+		    E	97.3 MHZ	HARVEST, AL				Permit, as amended
+										From: JAMES R. HENDERSON
+										To: JULIE L. SCALF
+										Form 345
+										
+
+
+FM TRANSLATOR APPLICATIONS FOR MINOR MODIFICATION TO A CONSTRUCTION PERMIT GRANTED
+----------------------------------------------------------------------------------
+
+KY  BMPFT-20060221AEM	W283AK  157964	GOOD SHEPHERD RADIO, INC		Mod of CP
+		    E	104.5 MHZ	ELIZABETHTOWN, KY	
+
+CO  BMPFT-20060228ALD	K213AT  12352	EDUCATIONAL MEDIA FOUNDATION		Mod of CP
+		    E	90.5 MHZ	BUENA VISTA, CO	
+
+
+FM TRANSLATOR APPLICATIONS FOR MINOR CHANGE TO A LICENSED FACILITY GRANTED
+--------------------------------------------------------------------------
+
+CO  BPFT-20060213AAK	K213EG  140229	EDUCATIONAL COMMUNICATIONS OF COLORADO SPRINGS, INC.	Minor change in licensed 
+		    E	90.5 MHZ	LITTLETON, CO				facilities, callsign K214EB.
+										Engineering Amendment filed 02/14/2006
+
+LA  BPFT-20060217AAV	K217FD  141279	BIBLE  BROADCASTING NETWORK, INC.	Minor change in licensed 
+		    E	91.3 MHZ	PINEVILLE, LA				facilities, callsign K220JA.
+
+SC  BPFT-20060223ABZ	W203BG  12403	CALVARY CHAPEL OF TWIN FALLS, INC.	Minor change in licensed 
+		    E	88.5 MHZ	CONWAY, SC				facilities, callsign W203BG.
+
+IN  BPFT-20060227ACI	W208BF  86394	WORLD RADIO NETWORK, INC.		Minor change in licensed 
+		    E	89.5 MHZ	ELKHART, IN				facilities, callsign W210BF.
+
+Actions of: 03/06/2006
+
+FM STATION APPLICATIONS FOR LICENSE TO COVER GRANTED
+----------------------------------------------------
+
+LA  BLED-20060223AAI	KMSL  121791	AMERICAN FAMILY ASSOCIATION		License to cover.
+		    E	91.7 MHZ	MANSFIELD, LA	
+
+
+FM STATION APPLICATIONS FOR MINOR CHANGE TO A LICENSED FACILITY GRANTED
+-----------------------------------------------------------------------
+
+NY  BPED-20050603ACI	WCIY  20643	FAMILY LIFE MINISTRIES, INC.		Minor change in licensed facilities.
+		    E	88.9 MHZ	CANANDAIGUA, NY	
+
+
+fcc

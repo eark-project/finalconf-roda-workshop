@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="id-04-11438">
+<name type="corporate">
+<namePart>United States Government Printing Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">printer</roleTerm>
+<roleTerm authority="marcrelator" type="code">prt</roleTerm>
+</role>
+<role>
+<roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+<roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>National Archives and Records Administration</namePart>
+<namePart>Federal Register Office</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">author</roleTerm>
+<roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+<description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+<collectionCode>FR</collectionCode>
+<category>Regulatory Information</category>
+<waisDatabaseName>2004_register</waisDatabaseName>
+<branch>executive</branch>
+</extension>
+<genre authority="marcgt">article</genre>
+<titleInfo>
+<title>Airworthiness Directives; GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders</title>
+<partName>Rules and Regulations</partName>
+</titleInfo>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Department of Transporation</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>United States Government Agency or Subagency</description>
+</name>
+<name type="corporate">
+<namePart>United States</namePart>
+<namePart>Federal Aviation Administration</namePart>
+<role>
+<roleTerm authority="marcrelator" type="text">originator</roleTerm>
+<roleTerm authority="marcrelator" type="code">org</roleTerm>
+</role>
+<description>United States Government Agency or Subagency</description>
+</name>
+<abstract>The FAA adopts a new airworthiness directive (AD) for certain GARMIN International Inc. GTX 330/GTX 330D Mode S transponders that are installed on aircraft. This AD requires you to install GTX 330/330D Software Upgrade Version 3.03, 3.04, or 3.05. This AD is the result of observations that the GTX 330 and GTX 330D may detect, from other aircraft, the S1 (suppression) interrogating pulse below the Minimum Trigger Level (MTL) and, in some circumstances, not reply. The GTX 330/ 330D should still reply even if it detects S1 interrogating pulses below the MTL. We are issuing this AD to prevent interrogating aircraft from possibly receiving inaccurate replies due to suppression from aircraft equipped with the GTX 330/330D Mode S Transponders when the pulses are below the MTL. The inaccurrate replies could result in reduced vertical separation or unsafe TCAS resolution advisories.</abstract>
+<identifier type="FR citation">69 FR 29212</identifier>
+<identifier type="uri">http://www.gpo.gov/fdsys/granule/FR-2004-05-21/04-11438</identifier>
+<identifier type="FR Doc No.">04-11438</identifier>
+<identifier type="former granule identifier">fr21my04-8</identifier>
+<identifier type="rin">RIN 2120-AA64</identifier>
+<identifier type="billing code">4910-13-M</identifier>
+<identifier type="department code">Docket No. 2003-CE-39-AD</identifier>
+<location>
+<url displayLabel="Content Detail" access="object in context">http://www.gpo.gov/fdsys/granule/FR-2004-05-21/04-11438/content-detail.html</url>
+<url displayLabel="PDF rendition" access="raw object">http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/pdf/04-11438.pdf</url>
+<url displayLabel="HTML rendition" access="raw object">http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/html/04-11438.html</url>
+</location>
+<subject>
+<topic>Air transportation</topic>
+<topic>Aircraft</topic>
+<topic>Aviation safety</topic>
+<topic>Incorporation by reference</topic>
+<topic>Safety</topic>
+</subject>
+<physicalDescription>
+<extent>4 p.</extent>
+</physicalDescription>
+<part type="Rules and Regulations">
+<extent unit="pages">
+<start>29212</start>
+<end>29215</end>
+</extent>
+</part>
+<identifier type="preferred citation">69 FR 29212</identifier>
+<relatedItem type="isReferencedBy">
+<titleInfo>
+<title>Code of Federal Regulations</title>
+<partNumber>Title 14 Part 39</partNumber>
+</titleInfo>
+<identifier type="CFR citation">14 CFR  39</identifier>
+</relatedItem>
+<relatedItem type="isReferencedBy">
+<identifier type="regulation ID number">RIN2120-AA64</identifier>
+</relatedItem>
+<extension>
+<searchTitle>Airworthiness Directives; GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders; Federal Register Vol. 69, Issue </searchTitle>
+<granuleClass>RULE</granuleClass>
+<accessId>04-11438</accessId>
+<agency order="1">DEPARTMENT OF TRANSPORATION</agency>
+<agency order="2">Federal Aviation Administration</agency>
+<effectiveDate>2004-07-09</effectiveDate>
+<departmentDoc>Docket No. 2003-CE-39-AD</departmentDoc>
+<departmentDoc>Amendment 39-13645</departmentDoc>
+<departmentDoc>AD 2004-10-15</departmentDoc>
+<rin number="2120-AA64"/>
+<billingCode>4910-13-M</billingCode>
+<frDocNumber>04-11438</frDocNumber>
+<action>Final rule.</action>
+<summary>The FAA adopts a new airworthiness directive (AD) for certain GARMIN International Inc. GTX 330/GTX 330D Mode S transponders that are installed on aircraft. This AD requires you to install GTX 330/330D Software Upgrade Version 3.03, 3.04, or 3.05. This AD is the result of observations that the GTX 330 and GTX 330D may detect, from other aircraft, the S1 (suppression) interrogating pulse below the Minimum Trigger Level (MTL) and, in some circumstances, not reply. The GTX 330/ 330D should still reply even if it detects S1 interrogating pulses below the MTL. We are issuing this AD to prevent interrogating aircraft from possibly receiving inaccurate replies due to suppression from aircraft equipped with the GTX 330/330D Mode S Transponders when the pulses are below the MTL. The inaccurrate replies could result in reduced vertical separation or unsafe TCAS resolution advisories.</summary>
+<dates>This AD becomes effective on July 9, 2004.</dates>
+<contact>Roger A. Souter, FAA, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: 316-946-4134; facsimile: 316-946-4107; e-mail</contact>
+<cfr title="14">
+            <part number="39"/>
+            <subject>Air transportation</subject>
+            <subject>Aircraft</subject>
+            <subject>Aviation safety</subject>
+            <subject>Incorporation by reference</subject>
+            <subject>Safety</subject>
+          </cfr>
+<tocSubject1>Airworthiness directives:</tocSubject1>
+<tocDoc>GARMIN International Inc., </tocDoc>
+<emailRef>roger.souter@faa.gov</emailRef>
+</extension>
+<relatedItem type="host" ID="" xlink:href="http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/mods.xml">
+<titleInfo>
+<title>Federal Register</title>
+<partNumber>Vol. 69, no. 99</partNumber>
+</titleInfo>
+<originInfo>
+<publisher>Office of the Federal Register, National Archives and Records Administration</publisher>
+<dateIssued encoding="w3cdtf">2004-05-21</dateIssued>
+<issuance>continuing</issuance>
+<frequency>daily</frequency>
+</originInfo>
+<physicalDescription>
+<note type="source content type">deposited</note>
+<digitalOrigin>born digital</digitalOrigin>
+<extent>240 p.</extent>
+</physicalDescription>
+<tableOfContents xlink:href="http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/toc.html">
+    Table of Contents: 
+  </tableOfContents>
+<classification authority="sudocs">AE 2.7:</classification>
+<classification authority="sudocs">GS 4.107:</classification>
+<classification authority="sudocs">AE 2.106:</classification>
+<classification authority="lcc">KF70.A2</classification>
+<identifier type="uri">http://www.gpo.gov/fdsys/pkg/FR-2004-05-21</identifier>
+<identifier type="issn">0097-6326</identifier>
+<identifier type="issn">0042-1219</identifier>
+<identifier type="issn">0364-1406</identifier>
+<identifier type="stock number">769-004-00000-9</identifier>
+<identifier type="ILS system id">000582072</identifier>
+<identifier type="former identifier">fr21my04</identifier>
+<location>
+<url displayLabel="Content Detail" access="object in context">http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/content-detail.html</url>
+<url displayLabel="PDF rendition" access="raw object">http://www.gpo.gov/fdsys/pkg/FR-2004-05-21/pdf/FR-2004-05-21.pdf</url>
+</location>
+<part type="issue">
+<extent unit="pages">
+<start>29171</start>
+<end>29410</end>
+</extent>
+</part>
+<recordInfo>
+<recordContentSource authority="marcorg">DGPO</recordContentSource>
+<recordCreationDate encoding="w3cdtf">2009-01-09</recordCreationDate>
+<recordChangeDate encoding="w3cdtf">2009-01-09</recordChangeDate>
+<recordIdentifier source="DGPO">FR-2004-05-21</recordIdentifier>
+<recordOrigin>machine generated</recordOrigin>
+<languageOfCataloging>
+<languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<extension>
+<docClass>FR</docClass>
+<accessId>FR-2004-05-21</accessId>
+<volume>69</volume>
+<issue>99</issue>
+</extension>
+</relatedItem>
+</mods>
